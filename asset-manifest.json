@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/travelog/static/css/main.4284bd17.css",
+    "main.js": "/travelog/static/js/main.f6a88f93.js",
+    "index.html": "/travelog/index.html",
+    "main.4284bd17.css.map": "/travelog/static/css/main.4284bd17.css.map",
+    "main.f6a88f93.js.map": "/travelog/static/js/main.f6a88f93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4284bd17.css",
+    "static/js/main.f6a88f93.js"
+  ]
+}
